@@ -1,0 +1,5 @@
+//Compilar Programa
+gcc -o .\projeto.exe .\main.c .\areas.c .\biblioteca.c .\livros.c .\locais.c .\requisitantes.c
+
+// Correr programa
+.\projeto.exe

@@ -1,0 +1,2 @@
+2024-06-30 20:34:57 - erro: Opcao invalida
+2024-06-30 22:22:58 - erro: Falha ao requisitar o livro

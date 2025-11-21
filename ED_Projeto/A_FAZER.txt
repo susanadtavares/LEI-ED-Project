@@ -1,0 +1,13 @@
+1) Guardar informações (estruturas de dados) em ficheiros .bin -> dados nao sao guardados, verificar funções escritas
+para eventuais erros (funções implementadas em biblioteca.c)
+
+2) Nas diversas listagens a implementar, dada a potencial elevada quantidade de
+informação, implementar um mecanismo de avanço página a página e deve
+ser oferecida a possibilidade de gravar a listagem em ficheiro de texto .txt e .csv,
+Estruturas de Dados 2023-2024 Engenharia Informática
+Projeto Prático 4/4
+para posterior consulta num simples editor de texto (Notepad, Notepad++,
+Sublime Text, TextMate ou outro) e no excel; 
+
+3) Gravar toda a informação para um dado ficheiro XML, cujo nome é introduzido
+pelo utilizador; 
